@@ -1,0 +1,33 @@
+/*
+Questão 1:
+
+// O resultado de soma será 91.
+
+const indice = 13
+let soma = 0, k =0
+while(k < indice) {
+	k += 1
+	soma += k
+}
+console.log(soma)
+*/
+
+
+/*
+Questão 3:
+
+a) 9
+b) 128
+c) 49
+d) 100	
+e) 13
+f) 200
+*/
+
+
+/*
+Questão 4:
+
+Ao se cruzarem, o caminhão estará mais próximo a Ribeirão Preto. Quando estiverem um ao lado do outro estaram a mesma distância. Entretanto, imediatamente ao passar o caminhão na rodovia, o carro estará mais distante da cidade de Ribeirão que o caminhão, uma vez que o caminhão tem como destino, Ribeirão.
+
+*/
